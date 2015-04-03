@@ -1,0 +1,12 @@
+c:\users\назар\documents\visual studio 2012\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+c:\users\назар\documents\visual studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+c:\users\назар\documents\visual studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+c:\users\назар\documents\visual studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+c:\users\назар\documents\visual studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+c:\users\назар\documents\visual studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+c:\users\назар\documents\visual studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+c:\users\назар\documents\visual studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+c:\users\назар\documents\visual studio 2012\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+c:\users\назар\documents\visual studio 2012\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+c:\users\назар\documents\visual studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+c:\users\назар\documents\visual studio 2012\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
